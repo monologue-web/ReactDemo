@@ -1,0 +1,37 @@
+.detailPage .detail-header .img-div {
+  margin-left: -26px;
+}
+.detailPage .detail-article {
+  padding: 0 15px;
+}
+.detailPage .detail-article h1 {
+  font-size: 22px;
+  text-align: center;
+}
+.detailPage .detail-article .img-div img {
+  width: 100%;
+}
+.detailPage .detail-article content p {
+  text-indent: 2em;
+  line-height: 1.6em;
+}
+.detailPage .detail-article p span {
+  color: #448844;
+}
+.detailPage .detail-article p span i {
+  margin-right: 6px;
+}
+.detailPage .comments {
+  padding: 15px 15px 0;
+}
+.detailPage .comments .comments-header {
+  font-style: 20px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 6px;
+}
+.detailPage .comments .commens-flex .img-div img {
+  border-radius: 50%;
+}
+.detailPage .comments .commens-flex .flex-left {
+  flex: 0 1 auto;
+}

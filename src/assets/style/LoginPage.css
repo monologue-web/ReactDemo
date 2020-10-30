@@ -1,0 +1,13 @@
+.login-page {
+  font-size: 24px;
+  background-color: #00439c;
+  height: 100%;
+}
+.login-page .img-div {
+  text-align: center;
+  padding-top: 100px;
+}
+.login-page .login-form {
+  margin: 30px 5%;
+  text-align: center;
+}

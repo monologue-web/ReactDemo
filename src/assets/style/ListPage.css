@@ -1,0 +1,18 @@
+.list-page .am-flexbox {
+  border-bottom: 1px solid #cccccc;
+}
+.list-page .am-flexbox .am-flexbox-item {
+  flex: 1;
+}
+.list-page .am-flexbox .am-flexbox-item:last-child {
+  flex: 3;
+}
+.list-page .sub-list-header {
+  padding-left: 15px;
+  font-weight: bold;
+  font-size: 20px;
+  border: 1px solid #cccccc;
+  border-left: none;
+  border-right: none;
+  padding: 6px 0 6px  15px;
+}

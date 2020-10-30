@@ -1,0 +1,17 @@
+.am-flexbox {
+  padding-top: 14px;
+}
+.am-flexbox .am-flexbox-item a {
+  text-align: center;
+}
+.am-flexbox .am-flexbox-item a span {
+  background: url("../images/subjectIcons.png");
+  width: 50px;
+  height: 56px;
+  display: block;
+  background-size: 350px;
+  margin: auto;
+}
+.am-flexbox .am-flexbox-item a p {
+  color: black;
+}

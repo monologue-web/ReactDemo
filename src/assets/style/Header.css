@@ -1,0 +1,22 @@
+.header .am-navbar {
+  background-color: #00439c;
+}
+.header .am-navbar .am-navbar-left,
+.header .am-navbar .am-navbar-right,
+.header .am-navbar .am-search,
+.header .am-navbar .am-search-input {
+  flex: 0 1 auto;
+}
+.header .am-navbar .am-navbar-title {
+  margin-left: 8px;
+}
+.header .am-navbar .am-navbar-title .am-search {
+  flex: 1;
+  background-color: #00439c;
+}
+.header .am-navbar .am-navbar-title .am-search-cancel {
+  color: #ffffff;
+}
+.header img {
+  display: block;
+}
