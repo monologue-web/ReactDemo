@@ -43,6 +43,8 @@ export default class LoginPage extends Component {
         if(rasp.data.success){
           Toast.success("登录成功!",1)
           this.props.router.push("/home")
+        }else{
+          Toast.error("登录失败！",0)
         }
       })
   }
